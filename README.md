@@ -1,4 +1,4 @@
-# Project Overview
+# Project Background & Overview
 
 I am using data found at http://www.inalitic.com/datasets/nhl%20player%20data.html
 The data contains 22 categories of offensive statistics in the NHL for every season from 1940 to 2018.
